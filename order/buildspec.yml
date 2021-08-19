@@ -7,7 +7,7 @@ env:
 phases:
   install:
     runtime-versions:
-      java: correcto8
+      java: correto8
       docker: 18
     commands:
       - echo install kubectl
